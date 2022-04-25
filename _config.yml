@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 RewriteEngine On
 RewriteRule ^index\.html$ / [R=301,L]
